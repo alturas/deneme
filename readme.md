@@ -1,1 +1,2 @@
 deneme dosyasi
+ilk versiyon
